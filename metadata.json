@@ -1,0 +1,6 @@
+{
+  "name": "AquaTrack - เตือนดื่มน้ำเพื่อสุขภาพ",
+  "description": "โปรแกรมแจ้งเตือนดื่มน้ำอัจฉริยะ คำนวณปริมาณน้ำตามน้ำหนัก บันทึกการดื่ม และแจ้งเตือนตามช่วงเวลาเพื่อสุขภาพที่ดี",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
